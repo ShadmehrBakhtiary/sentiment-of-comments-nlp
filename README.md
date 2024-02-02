@@ -1,7 +1,3 @@
-# sentiment-of-comments-nlp
-Certainly! Here's a detailed description for your project on sentiment analysis for the comment section of a product on Amazon using various machine learning and deep learning methods:
-
----
 
 # Sentiment Analysis for Amazon Product Comments
 
